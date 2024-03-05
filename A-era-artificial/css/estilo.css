@@ -1,0 +1,44 @@
+body {
+  font-family: tahoma;
+}
+
+div {
+  text-align: center;
+  margin: 30px;
+}
+
+img {
+  width: 190px;
+}
+
+h2 {
+  font-size: 24px;
+}
+
+h3 {
+  font-size: 20px;
+}
+
+p {
+  line-height: 28px;
+  width: 930px;
+  margin: 20px auto;
+}
+
+a {
+  background-color: green;
+  color: white;
+  font-size: 14px;
+  font-weight: bold;
+  text-decoration: none;
+  padding: 10px 25px;
+  border-radius: 25px;
+}
+
+span {
+  font-weight: bold;
+}
+
+#div-2 {
+  border-top: 1px solid #d5d5d5;
+}
