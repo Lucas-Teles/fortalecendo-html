@@ -1,0 +1,99 @@
+body {
+  margin: 0;
+  font-family: tahoma;
+}
+
+.secao {
+  margin-top: 30px;
+  margin-bottom: 30px;
+  text-align: center;
+}
+
+p {
+  margin: 10px auto;
+  width: 980px;
+  text-align: justify;
+  font-size: 18px;
+  line-height: 28px;
+}
+
+.logo {
+  width: 150px;
+}
+
+.links {
+  margin-top: 15px;
+  margin-bottom: 25px;
+  text-align: center;
+}
+
+.links a {
+  font-size: 18px;
+  color: #1d1d1d;
+  border-bottom: 2px solid #1d1d1d;
+  text-decoration: none;
+  margin: 0 10px;
+}
+
+.secao-secundaria {
+  margin-top: 50px;
+  padding: 0;
+}
+
+span {
+  font-weight: bold;
+}
+
+h1 {
+  color: #1d1d1d;
+  margin-bottom: 5px;
+}
+
+.subtitulo {
+  margin-top: 0;
+  font-weight: normal;
+  color: white;
+  font-size: 28px;
+  line-height: 42px;
+}
+
+.texto-azul {
+  color: #1c81c0;
+}
+
+.secao-sobre img {
+  width: 450px;
+}
+
+.secao-servicos {
+  background-color: #1c81c0;
+}
+
+.secao-servicos p {
+  color: white;
+  font-size: 22px;
+  line-height: 42px;
+  text-align: center;
+  width: 700px;
+}
+
+.texto-amarelo {
+  color: #fff81b;
+}
+
+.secao-servicos .lista {
+  margin: 40px auto;
+  width: 130px;
+  margin-bottom: 40px;
+}
+
+.secao-servicos .lista li {
+  color: white;
+  text-align: left;
+  line-height: 42px;
+  font-size: 22px;
+}
+
+.secao-corretores img {
+  width: 450px;
+}
